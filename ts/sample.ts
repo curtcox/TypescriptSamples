@@ -1,1 +1,1 @@
-export const sample = `<a href="https://www.val.town/v/curtcox/sourceOnGithubExample">Val Source</a>`;
+export const exported_constant = 'exported from https://github.com/curtcox/TypescriptSamples/edit/main/ts/sample.ts';
