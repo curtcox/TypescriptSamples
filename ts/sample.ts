@@ -1,1 +1,1 @@
-export const exported_constant = "See https://github.com/curtcox/TypescriptSamples/main/ts/sample.ts";
+export const exported_constant = "See https://raw.githubusercontent.com/curtcox/TypescriptSamples/main/ts/sample.ts";
